@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-    <h2>Jenkins CI/CD Pipeline Deployed Successfully!</h2>
-    <p>Application updated automatically using Jenkins and Tomcat.</p>
+    <h2>Welcome Dharshini!</h2>
+<p>Enjoy automation with Jenkins.</p>
 </body>
 </html>
